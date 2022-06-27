@@ -25,6 +25,5 @@ Olá! Eu sou o Josué Leopoldo🖐
   <a href = "mailto:contatojosueleopoldo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/josu%C3%A9-leopoldo-75067821b?trk=public_profile_samename-profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/JosueLeopoldo/Josueleopoldo/blob/output/github-contribution-grid-snake.svg)
 
 </div> 
