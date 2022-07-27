@@ -1,16 +1,6 @@
 
-<div align="center"><br>
-  <img align="rigth" alt="Josue-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="" alt="Josue-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="" alt="Josue-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="t" alt="Josue-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-
-
-##
-
 <div align="left">
-  <h3>Olá, sou Josué <h3>
+  <h1>Olá, sou Josué </h1>
   📖Estou estudando Front-End / Back-end
    <br>
   👨‍💻Quero trabalhar como Programador
@@ -31,6 +21,13 @@
 </div>
  <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueLeopoldo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+  <div align="center"><br>
+  <img align="rigth" alt="Josue-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="" alt="Josue-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="" alt="Josue-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="t" alt="Josue-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
   <div align="center">
